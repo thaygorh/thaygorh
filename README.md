@@ -1,4 +1,38 @@
-## Hi there 👋
+## Thaygor Gonçalves
+
+Engenheiro de Software, pós-graduando em Ciência de Dados & Analytics pela PUC-Rio.
+
+Experiência em análise e modelagem de dados aplicada à automação e otimização de processos, com foco em eficiência operacional e suporte à tomada de decisão.
+
+Atuação na manutenção e evolução de sistemas industriais, com experiência na plataforma Lynx RTP. Utilização de técnicas de Machine Learning na análise de dados, com interesse técnico em Estatística aplicada, PLC e sistemas de automação industrial.
+
+---
+
+### Atuação Técnica
+- Análise exploratória e modelagem de dados
+- Desenvolvimento e manutenção de pipelines de dados (ETL)
+- Manutenção e suporte a sistemas industriais em produção
+- Análise estatística aplicada
+- Desenvolvimento de soluções orientadas a dados
+- Automação de processos e suporte analítico
+
+---
+
+### Stack Técnica
+Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Excel · Git
+
+---
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+
+---
+
+### Contato
+LinkedIn: https://www.linkedin.com/in/thaygorhenrique
+
 
 <!--
 **thaygorh/thaygorh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
