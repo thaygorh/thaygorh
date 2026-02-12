@@ -25,9 +25,10 @@ Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Excel · Git
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thaygorh&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaygorh&layout=compact&theme=default&cache_seconds=1800)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thaygorh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaygorh&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 ---
 
