@@ -27,7 +27,7 @@ Python · SQL · Pandas · NumPy · Scikit-learn · Power BI · Excel · Git
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=thaygorh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=thaygorh&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thaygorh&theme=tokyonight" />
 </p>
 
 ---
