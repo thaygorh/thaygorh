@@ -1,6 +1,6 @@
 ## Thaygor Gonçalves
 
-Engenheiro de Software, pós-graduando em Ciência de Dados & Analytics pela PUC-Rio.
+Engenheiro de Software, pós-graduado em Ciência de Dados & Analytics pela PUC-Rio.
 
 Experiência em análise e modelagem de dados aplicada à automação e otimização de processos, com foco em eficiência operacional e suporte à tomada de decisão.
 
